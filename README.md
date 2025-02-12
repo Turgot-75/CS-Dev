@@ -1,2 +1,2 @@
-# C-Dev
-A multiple C# program for years 2024-2025.
+# CSharp-Dev
+A multiple program C# for years 2024-2025.
